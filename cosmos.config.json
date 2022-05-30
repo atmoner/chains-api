@@ -73,6 +73,6 @@
       "gas": 200000
     },     
     "coingeckoId": "akash-network",
-    "active": "true"
+    "active": "false"
   }
 ]
