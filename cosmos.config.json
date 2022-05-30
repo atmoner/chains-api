@@ -54,7 +54,7 @@
       "gas": 200000
     },     
     "coingeckoId": "stargaze",
-    "active": "true"
+    "active": "false"
   },
   {
     "chainId": "akashnet-2",
