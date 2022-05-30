@@ -35,7 +35,7 @@
       "gas": 200000
     },     
     "coingeckoId": "chihuahua-token",
-    "active": "true"
+    "active": "false"
   },
   {
     "chainId": "stargaze-1",
