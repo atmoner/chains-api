@@ -16,6 +16,7 @@
       "gas": 420000
     },    
     "coingeckoId": "bitcanna",
+    "mintscanId": "bitcanna",
     "active": "true"
   },
   {
@@ -35,6 +36,7 @@
       "gas": 200000
     },     
     "coingeckoId": "chihuahua-token",
+    "mintscanId": "chihuahua",
     "active": "true"
   },
   {
@@ -54,6 +56,7 @@
       "gas": 200000
     },     
     "coingeckoId": "stargaze",
+    "mintscanId": "stargaze",
     "active": "true"
   },
   {
@@ -73,6 +76,7 @@
       "gas": 200000
     },     
     "coingeckoId": "akash-network",
+    "mintscanId": "akash",
     "active": "true"
   }
 ]
