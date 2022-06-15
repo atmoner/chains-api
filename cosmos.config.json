@@ -77,6 +77,6 @@
     },     
     "coingeckoId": "akash-network",
     "mintscanId": "akash",
-    "active": "false"
+    "active": "true"
   }
 ]
