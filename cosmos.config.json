@@ -57,7 +57,7 @@
     },     
     "coingeckoId": "stargaze",
     "mintscanId": "stargaze",
-    "active": "true"
+    "active": "false"
   },
   {
     "chainId": "akashnet-2",
