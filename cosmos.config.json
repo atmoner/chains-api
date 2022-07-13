@@ -78,25 +78,5 @@
     "coingeckoId": "akash-network",
     "mintscanId": "akash",
     "active": "true"
-  }/*,
-  {
-    "chainId": "gravity-bridge-3",
-    "name": "Gravity-bridge",
-    "apiURL": "https://gravitychain.io:1317",
-    "rpcURL": "https://gravitychain.io:26657",
-    "coinLookup": {
-      "viewDenom": "GRAV",
-      "chainDenom": "ugraviton",
-      "addressPrefix": "gravity",
-      "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.svg",
-      "banner": ""
-    },
-    "fee": {
-      "amount": 5000,
-      "gas": 200000
-    },     
-    "coingeckoId": "graviton",
-    "mintscanId": "gravity-bridge",
-    "active": "true"
-  }  */
+  }
 ]
