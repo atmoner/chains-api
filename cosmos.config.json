@@ -78,7 +78,7 @@
     "coingeckoId": "akash-network",
     "mintscanId": "akash",
     "active": "true"
-  },
+  }/*,
   {
     "chainId": "gravity-bridge-3",
     "name": "Gravity-bridge",
@@ -98,5 +98,5 @@
     "coingeckoId": "graviton",
     "mintscanId": "gravity-bridge",
     "active": "true"
-  }  
+  }  */
 ]
