@@ -78,5 +78,21 @@
     "coingeckoId": "akash-network",
     "mintscanId": "akash",
     "active": "true"
+  },
+  {
+    "chainId": "osmosis-1",
+    "name": "Osmosis",
+    "desc": "Osmosis is a decentralized peer-to-peer blockchain that people can use to create liquidity and trade IBC enabled tokens.",
+    "apiURL": "https://lcd-osmosis.blockapsis.com",
+    "rpcURL": "https://osmosis.validator.network",
+    "coinLookup": {
+      "viewDenom": "OSMO",
+      "chainDenom": "uosmo",
+      "addressPrefix": "osmo",
+      "icon": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/osmo.svg",
+    }, 
+    "coingeckoId": "osmosis",
+    "mintscanId": "osmosis",
+    "active": "true"    
   }
 ]
