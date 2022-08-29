@@ -89,7 +89,7 @@
       "viewDenom": "OSMO",
       "chainDenom": "uosmo",
       "addressPrefix": "osmo",
-      "icon": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/osmo.svg"
+      "icon": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/osmo.svg",
       "banner": "https://demo.cosmos-tool.com/wp-content/plugins/cosmos-woocomerce/public/img/Akash.png"
     }, 
     "fee": {
