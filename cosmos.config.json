@@ -83,8 +83,8 @@
     "chainId": "osmosis-1",
     "name": "Osmosis",
     "desc": "Osmosis is a decentralized peer-to-peer blockchain that people can use to create liquidity and trade IBC enabled tokens.",
-    "apiURL": "https://lcd-osmosis.blockapsis.com",
-    "rpcURL": "https://osmosis.validator.network",
+    "apiURL": "https://lcd.osmosis.zone",
+    "rpcURL": "https://rpc.osmosis.zone",
     "coinLookup": {
       "viewDenom": "OSMO",
       "chainDenom": "uosmo",
