@@ -42,7 +42,7 @@
   {
     "chainId": "stargaze-1",
     "name": "Stargaze",
-    "apiURL": "https://api.stars.kingnodes.com",
+    "apiURL": "https://rest.stargaze-apis.com",
     "rpcURL": "https://rpc.stargaze-apis.com",
     "coinLookup": {
       "viewDenom": "STARS",
