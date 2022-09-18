@@ -99,5 +99,25 @@
     "coingeckoId": "osmosis",
     "mintscanId": "osmosis",
     "active": "true"    
-  }
+  },
+  {
+    "chainId": "bitcanna-dev-4",
+    "name": "BitCanna-Testnet",
+    "apiURL": "https://lcd-testnet.bitcanna.io",
+    "rpcURL": "https://rpc-testnet.bitcanna.io",
+    "coinLookup": {
+      "viewDenom": "BCNA",
+      "chainDenom": "ubcna",
+      "addressPrefix": "bcna",
+      "icon": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/bcna.svg",
+      "banner": "https://demo.cosmos-tool.com//wp-content/plugins/cosmos-woocomerce/public/img/BitCanna.png"
+    },
+    "fee": {
+      "amount": 5000,
+      "gas": 420000
+    },    
+    "coingeckoId": "bitcanna",
+    "mintscanId": "bitcanna",
+    "active": "true"
+  } 
 ]
